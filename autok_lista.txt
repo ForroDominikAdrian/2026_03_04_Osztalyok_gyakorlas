@@ -1,0 +1,20 @@
+Toyota;Corolla;2018 
+Ford;Focus;2017 
+Volkswagen;Golf;
+2019 BMW;320d;2016
+Audi;A4;2020 
+Mercedes-Benz;C200;2015 
+Honda;Civic;2018 
+Hyundai;i30;2021
+Kia;Ceed;2019 
+Skoda;Octavia;2017 
+Peugeot;308;2016 
+Renault;Megane;2018
+Opel;Astra;2015 
+Mazda;Mazda3;2020 
+Nissan;Qashqai;2019 
+Volvo;V60;2017
+Suzuki;Vitara;2022
+Seat;Leon;2018
+Dacia;Duster;2021
+Tesla;Model 3;2023
